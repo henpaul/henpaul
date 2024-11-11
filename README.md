@@ -15,17 +15,21 @@
 📫 How to reach me: **hendreinpaul@gmail.com** or **https://www.linkedin/in/hendrein** <br/>
 ⚡ Fun fact: I enjoy learning calisthenics!
 
-<!--
-## Hi there 👋
-**henpaul/henpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,java,mysql" /><br>
+</div>
 
+<br/>
+<hr/>
+
+<!--
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
