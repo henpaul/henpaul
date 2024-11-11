@@ -10,11 +10,9 @@
 
 <h3 align="center">A passionate software developer</h3>
 
-<br/>
-
-🔭 I’m currently working on **a portfolio website!**
-🌱 I’m currently learning **AWS**
-📫 How to reach me: **hendreinpaul@gmail.com** or **https://www.linkedin/in/hendrein**
+🔭 I’m currently working on **a portfolio website!** <br/>
+🌱 I’m currently learning **AWS** <br/>
+📫 How to reach me: **hendreinpaul@gmail.com** or **https://www.linkedin/in/hendrein** <br/>
 ⚡ Fun fact: I enjoy learning calisthenics!
 
 <!--
