@@ -9,7 +9,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <div align="center">
-🔭 I’m currently working on **a portfolio website!** <br/>
+🔭 I’m currently working on <b>a portfolio website!</b> <br/>
     
 🌱 I’m currently learning **AWS** <br/>
 
